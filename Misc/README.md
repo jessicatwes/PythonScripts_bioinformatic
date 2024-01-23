@@ -1,2 +1,2 @@
-# Miscellaneous Python scripts for bioinformatics
-This directory contains an assortment of Python scripts.
+# Miscellaneous Python scripts
+This directory includes miscellaneous Python scripts and Jupyter notebooks.
